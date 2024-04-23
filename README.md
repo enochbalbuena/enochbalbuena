@@ -3,9 +3,11 @@
 
 - 🌱 I’m currently learning **SQL and Databases**
 
+- 👨‍💻 All of my projects are available at [https://github.com/enochbalbuena](https://github.com/enochbalbuena)
+
 - 💬 Ask me about **Data Analysis, Statistical Tests, & Applied Modeling**
 
-- 📫 How to reach me **enxch@icloud.com**
+- 📫 How to reach me: **enxch@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
